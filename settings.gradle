@@ -1,1 +1,5 @@
 rootProject.name = 'zzimple'
+
+include ':common-service'
+include ':owner-service'
+include ':customer-service'
